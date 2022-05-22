@@ -1,0 +1,167 @@
+{
+  "subjects": [
+    {
+      "id": 1,
+      "title": "English",
+      "courses": [
+        {
+          "id": 1,
+          "teacher_name": "Teacher name 1",
+          "starting_date": "2021-03-01"
+        },
+        {
+          "id": 2,
+          "teacher_name": "Teacher name 2",
+          "starting_date": "2021-03-01"
+        },
+        {
+          "id": 3,
+          "teacher_name": "Teacher name 3",
+          "starting_date": "2021-03-01"
+        },
+        {
+          "id": 4,
+          "teacher_name": "Teacher name 4",
+          "starting_date": "2021-03-01"
+        },
+        {
+          "id": 5,
+          "teacher_name": "Teacher name 5",
+          "starting_date": "2021-03-01"
+        },
+        {
+          "id": 6,
+          "teacher_name": "Teacher name 6",
+          "starting_date": "2021-03-01"
+        },
+        {
+          "id": 7,
+          "teacher_name": "Teacher name 7",
+          "starting_date": "2021-03-01"
+        },
+        {
+          "id": 8,
+          "teacher_name": "Teacher name 8",
+          "starting_date": "2021-03-01"
+        },
+        {
+          "id": 9,
+          "teacher_name": "Teacher name 9",
+          "starting_date": "2021-03-01"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Math",
+      "courses": [
+        {
+          "id": 10,
+          "teacher_name": "Teacher name 10",
+          "starting_date": "2021-03-02"
+        },
+        {
+          "id": 11,
+          "teacher_name": "Teacher name 11",
+          "starting_date": "2021-03-03"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Science",
+      "courses": [
+        {
+          "id": 12,
+          "teacher_name": "Teacher name 12",
+          "starting_date": "2021-03-02"
+        },
+        {
+          "id": 13,
+          "teacher_name": "Teacher name 13",
+          "starting_date": "2021-03-03"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "German",
+      "courses": [
+        {
+          "id": 14,
+          "teacher_name": "Teacher name 14",
+          "starting_date": "2021-03-02"
+        },
+        {
+          "id": 15,
+          "teacher_name": "Teacher name 15",
+          "starting_date": "2021-03-03"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Chemistry",
+      "courses": [
+        {
+          "id": 16,
+          "teacher_name": "Teacher name 16",
+          "starting_date": "2021-03-02"
+        },
+        {
+          "id": 17,
+          "teacher_name": "Teacher name 17",
+          "starting_date": "2021-03-03"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Physics",
+      "courses": [
+        {
+          "id": 18,
+          "teacher_name": "Teacher name 18",
+          "starting_date": "2021-03-02"
+        },
+        {
+          "id": 19,
+          "teacher_name": "Teacher name 19",
+          "starting_date": "2021-03-03"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "history",
+      "courses": [
+        {
+          "id": 20,
+          "teacher_name": "Teacher name 20",
+          "starting_date": "2021-03-02"
+        },
+        {
+          "id": 21,
+          "teacher_name": "Teacher name 21",
+          "starting_date": "2021-03-03"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "computer",
+      "courses": [
+        {
+          "id": 22,
+          "teacher_name": "Teacher name 22",
+          "starting_date": "2021-03-02"
+        },
+        {
+          "id": 23,
+          "teacher_name": "Teacher name 23",
+          "starting_date": "2021-03-03"
+        }
+      ]
+    }
+  ]
+}
